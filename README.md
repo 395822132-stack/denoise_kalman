@@ -142,7 +142,7 @@ Code Availability
 -----------------
 The computer code used in this study is publicly available at:
 
-https://github.com/doctordidi/denoise_kalman
+[https://github.com/doctordidi/denoise_kalman](https://github.com/395822132-stack/denoise_kalman.git)
 
 The file kalman_filter_video_stabilization.py is provided for review and
 publication with the manuscript.
